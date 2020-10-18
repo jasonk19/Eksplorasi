@@ -17,7 +17,7 @@ Pada bagian Develop tersebut, ada beberapa bagian seperti:
 - Youtube
 - Maps Platform
 
-## Hasil dari Ekspolarid GDP
+## Hasil dari Ekspolarsi GDP
 ### Tensorflow
 Dari ke-8 product tersebut, saya langsung tertarik pada bagian Tensorflow, karena saya memiliki keingintahuan yang tinggi terhadap bagaimana AI dan Machine Learning bekerja.
 Selama mengeksplor bagian tensorflow, saya mendapat beberapa hal yang menurut saya baru, seperti bagaimana kita dapat memberi perintah kepada komputer (mesin) untuk menyelesaikan suatu masalah dan hal hal dalam kehidupan sehari hari yang didukung oleh Tensorflow. Pada page paling bawah juga melihat perusahaan perusahaan yang sudah mengunakan tensorflow, dan ternyata ada banyak sekali, sehingga saya berkesimpulan bahwa di jaman yang maju ini, sangat penting untuk mengaplikasikan kecerdasan buatan dalam sistem kerja perusahaan.
